@@ -59,3 +59,9 @@ public class FahrenheitToCelsiusTable {
 			System.out.println(S+" "+C);
 			S+=W;
 		}
+
+		
+		
+		
+		
+		
