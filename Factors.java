@@ -11,7 +11,7 @@ All the factors of n excluding 1 and the number itself
 
 Constraints :
 0 <= n <= 10,000
-
+-------------------------------------------------
 Sample Input 1 :
 8
 Sample Output 1 :
@@ -20,7 +20,7 @@ Sample Output 1 :
 Sample Input 2 :
 11
 Sample Output 2 :
-
+-------------------------------------------------
 
 
 Explanation of Sample Output 2 :
